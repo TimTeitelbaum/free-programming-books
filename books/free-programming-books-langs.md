@@ -1,7 +1,7 @@
 ## BY PROGRAMMING LANGUAGE
 
 Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
-That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
+That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md), where books on general-purpose programming that don't focus on a specific language are listed in "Programming", and books on specialized topics are listed in their own sub-sections.
 
 
 ### Index
